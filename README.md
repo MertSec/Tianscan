@@ -2,12 +2,17 @@
 使用方法:
 TitanScan.exe -yonyou http://xxx.xxx.xxx.xxx //单次检测
 TitanScan.exe -yonyou -f url.txt //批量检测
-目前支持检测的漏洞:
-用友 NC bsh.servlet.BshServlet 远程命令执行漏洞
-用友 ERP-NC NCFindWeb 目录遍历漏洞
-用友 GRP-U8 Proxy SQL注入
-用友U8 OA test.jsp sql注入漏洞
-用友时空 KSOA 文件上传漏洞
-用友-GRP-U8任意文件上传漏洞
-用友-NC-Cloud全版本任意文件上传
+
+
+<details>
+<summary>点击此处展开/收缩所有漏洞</summary>
+
+
+- 用友 NC bsh.servlet.BshServlet 远程命令执行漏洞
+- 用友 ERP-NC NCFindWeb 目录遍历漏洞
+- 用友 GRP-U8 Proxy SQL注入
+- 用友U8 OA test.jsp sql注入漏洞
+- 用友时空 KSOA 文件上传漏洞
+- 用友-GRP-U8任意文件上传漏洞
+- 用友-NC-Cloud全版本任意文件上传
 此工具仅作为网络安全攻防研究交流和安全研究，请使用者遵照网络安全法合理使用！如果使用者使用该工具出现非法攻击等违法行为，与本作者无关！
