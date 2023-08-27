@@ -9,6 +9,11 @@ TitanScan.exe -yonyou -f url.txt //批量检测
 
 ![SpringBoot-Scan-GUI](https://t3.picb.cc/2023/08/27/IsiRNr.png)
 
+
+后续会持续更新,增加多线程等功能
+
+欢迎志同道合的朋友一起交流:
+![SpringBoot-Scan-GUI]([https://t3.picb.cc/2023/08/27/IsiRNr.png](https://t3.picb.cc/2023/08/27/IsixzJ.jpeg))
 <details>
 <summary>展开/收缩目前支持检测的漏洞漏洞</summary>
 
@@ -21,7 +26,4 @@ TitanScan.exe -yonyou -f url.txt //批量检测
 - 用友-GRP-U8任意文件上传漏洞
 - 用友-NC-Cloud全版本任意文件上传
 
-后续会持续更新,增加多线程等功能
-
-欢迎志同道合的朋友一起交流:
 
