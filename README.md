@@ -4,7 +4,9 @@
 
 使用方法:
 TitanScan.exe -yonyou http://xxx.xxx.xxx.xxx //单次检测
+
 TitanScan.exe -yonyou -f url.txt //批量检测
+
 ![SpringBoot-Scan-GUI](https://t3.picb.cc/2023/08/27/IsiRNr.png)
 
 <details>
@@ -18,3 +20,8 @@ TitanScan.exe -yonyou -f url.txt //批量检测
 - 用友时空 KSOA 文件上传漏洞
 - 用友-GRP-U8任意文件上传漏洞
 - 用友-NC-Cloud全版本任意文件上传
+
+后续会持续更新,增加多线程等功能
+
+欢迎志同道合的朋友一起交流:
+
