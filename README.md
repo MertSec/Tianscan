@@ -5,7 +5,7 @@
 使用方法:
 TitanScan.exe -yonyou http://xxx.xxx.xxx.xxx //单次检测
 TitanScan.exe -yonyou -f url.txt //批量检测
-https://t3.picb.cc/2023/08/27/IsiRNr.png
+![SpringBoot-Scan-GUI](https://t3.picb.cc/2023/08/27/IsiRNr.png)
 
 <details>
 <summary>展开/收缩目前支持检测的漏洞漏洞</summary>
